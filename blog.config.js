@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Kathy's pixel art',
   author: 'Kathy Chow,
   email: 'kathy1015@qq.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://www.notion.so/9278f47c6465491dab59913285efaf10?v=b2b362a0cc0d49f0886ff1fb0ca8ca5a',
   description: 'Welcom to my pixel gallery',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
