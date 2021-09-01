@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Kathy Chow',
   email: 'kathy1015@qq.com',
   link: 'https://www.notion.so/9278f47c6465491dab59913285efaf10?v=b2b362a0cc0d49f0886ff1fb0ca8ca5a',
-  description: 'Welcom to my pixel gallery',
+  description: 'Welcome :)',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -17,7 +17,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/Kathychowww',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
