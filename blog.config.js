@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '[Under Constrution]Pixel art pieces created by Kathy',
+  title: 'Pixel art pieces created by Kathy',
   author: 'Kathy Chow',
   email: 'kathy1015@qq.com',
   link: 'https://www.notion.so/9278f47c6465491dab59913285efaf10?v=b2b362a0cc0d49f0886ff1fb0ca8ca5a',
