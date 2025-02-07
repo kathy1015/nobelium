@@ -38,5 +38,17 @@
         }
       ]
     }
+  ],
+  "builds": [
+    {
+      "src": "public/**",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/ads.txt",
+      "dest": "/public/ads.txt"
+    }
   ]
 }
